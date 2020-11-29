@@ -56,4 +56,4 @@ Fine|btw|The chennai hotel
 ```
 $sudo install AtomEditor
 ```
-![image insertion](https://images.app.goo.gl/yAP6gqPQpvHHLk7R7)
+![](logo.png)
