@@ -6,6 +6,7 @@ Technical writing
 
 ~~The most important part of this documentation is to practice various shortcuts
 
+*most*
 1. Ordered lists
 * Unordered lists
     * unordered lists
